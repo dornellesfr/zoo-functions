@@ -41,8 +41,8 @@ Para rodar os testes, rode o seguinte comando:
 - [@dornellesfr](https://www.github.com/dornellesfr)
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS, React, RTL, Node, Express, Sequelize, MySQL, Docker.
+## 🛠 Tecnologias usadas
+Javascript, Jest
 
 
 ## 🔗 Links
