@@ -4,8 +4,7 @@
 
 # ZOO FUNCTIONS
 
-Esse projeto foi feito enquanto estava fazendo o curso de Fundamentos de Web Desenvolvimento na Trybe.
-Este projeto tem como tema principal simular as funcionalidades - de forma básica - de um zoológico em JavaScript.
+Esse projeto foi feito enquanto estava fazendo o curso de Fundamentos de Web Desenvolvimento na Trybe e tem como tema principal simular as funcionalidades - de forma básica - de um zoológico em JavaScript. Ele possui 14 requisitos obrigatórios e mais 2 que são bônus, todos feitos explorando lógica de programação e HOFS com JavaScript.
 
 
 
@@ -32,6 +31,7 @@ Segue alguns projetos relacionados
 Para rodar os testes, rode o seguinte comando:
 
 ```bash
+  npm i
   npm run test
 ```
 
